@@ -2,6 +2,9 @@
 This Repo includes syllabus of the course Big Data 101, which will be given in Kodluyoruz.
 
 ### Syllabus (Tentative)
+	 Week 0
+		- Version Control Systems. Why do we need them?
+		- Quick intro to `git` 
 	 Week 1
 		- Intro
 		- Big Data: Why and Where?
