@@ -24,7 +24,7 @@ This Repo includes syllabus of the course Big Data 101, which will be given in K
 		- Possible Data Collection Architectures
 		- Deep Dive into Spark
 	 Week 7
-		- Messaging Queue Consept in Big Data Projects
+		- Messaging Queue Concept in Big Data Projects
 		- Cloud Big Data Tools (AWS EMR, Google Cloud DataProc etc.)
 	 Week 8
 		- Real life Big Data Projects
