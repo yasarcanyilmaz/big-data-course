@@ -1,31 +1,28 @@
 # big-data-course
 This Repo includes syllabus of the course Big Data 101, which will be given in Kodluyoruz.
 
-### Syllabus (Tentative)
-	 Week 0
+### Syllabus (Close to final version)
+	 Lecture 0 (7 July)
 		- Version Control Systems. Why do we need them?
 		- Quick intro to `git` 
-	 Week 1
-		- Intro
+	 Lecture 1 (20-21 July)
 		- Big Data: Why and Where?
-	 Week 2
 		- Characteristics of Big Data
-		- Quick Intro to Data Science: The way of taking insight from Big Data.
-	 Week 3
-		- Getting started with Hadoop
+	 Lecture 2 (27-28 July)
 		- New(?) Programming Model for Big Data
-	 Week 4
 		- Intro to Functional Programming with Scala
+	 Lecture 3 (3-4 August)
 		- Map and Reduce as Higher Order Functions
-	 Week 5
 		- Dealing Big Data with Spark
-		- Quick Look to Spark APIs
-	 Week 6
-		- Possible Data Collection Architectures
-		- Deep Dive into Spark
-	 Week 7
+	 Lecture 4 (17-18 August)
+		- Deep Dive into Spark #1
+		- Deep Dive into Spark #2
+	 Lecture 5 (31 August - 1 September)
 		- Messaging Queue Concept in Big Data Projects
-		- Cloud Big Data Tools (AWS EMR, Google Cloud DataProc etc.)
-	 Week 8
+		- Data Collection Architectures (Lambda, Kappa)
+	 Lecture 6 (7-8 September)
+		- Cloud Big Data Tools (AWS EMR, Kinesis, S3..)
+		- Using Cloud big data tools
+	 Lecture 7 (14-15 September)
 		- Real life Big Data Projects
-		- An Application of Lambda Architecture
+		- An Application of Lambda Architecture		
