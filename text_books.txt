@@ -1,0 +1,29 @@
+Text Books
+
+1-
+Spark: The Definitive Guide
+Big Data Processing Made Simple
+By Matei Zaharia, Bill Chambers
+Publisher: O'Reilly Media
+Release Date: February 2018
+
+http://shop.oreilly.com/product/0636920034957.do
+
+2-
+Advanced Analytics with Spark, 2nd Edition
+Patterns for Learning from Data at Scale
+By Sandy Ryza, Uri Laserson, Josh Wills, Sean Owen
+Publisher: O'Reilly Media
+Release Date: June 2017
+
+http://shop.oreilly.com/product/0636920056591.do
+
+3-
+High Performance Spark
+Best Practices for Scaling and Optimizing Apache Spark
+By Holden Karau, Rachel Warren
+Publisher: O'Reilly Media
+Release Date: June 2017
+
+http://shop.oreilly.com/product/0636920046967.do
+
