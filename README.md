@@ -16,10 +16,10 @@ This Repo includes syllabus of the course Big Data 101, which will be given in K
 		- Deep Dive into Spark #1
 	 Lecture 4 (17-18 August)
 		- Deep Dive into Spark #2
-		- Messaging Queue Concept in Big Data Projects
-	 Lecture 5 (31 August - 1 September)
-		- Data Collection Architectures (Lambda, Kappa)
 		- Cloud Big Data Tools (AWS EMR, Kinesis, S3..)
+	 Lecture 5 (31 August - 1 September)
+		- Messaging Queue Concept in Big Data Projects
+		- Data Collection Architectures (Lambda, Kappa)
 	 Lecture 6 (7-8 September)
 		- Cloud big data tools in action
 	 Lecture 7 (14-15 September)
